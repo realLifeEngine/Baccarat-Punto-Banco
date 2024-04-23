@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0117EB47-5762-4722-BFB1-E6EA74E79C02"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C066368E-69D2-4F4A-BC40-F53236934510"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OcH5Demo/ScriptMessageHandler.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "-getImei"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C066368E-69D2-4F4A-BC40-F53236934510 - 38a5f5d6fd9ded56"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ScriptMessageHandler userContentController:didReceiveScriptMessage:]"
+                  moduleName = "OcH5Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/b77/Desktop/OcH5Demo/OcH5Demo/ScriptMessageHandler.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "145">
+               </Location>
+               <Location
+                  uuid = "C066368E-69D2-4F4A-BC40-F53236934510 - da974ceda38727d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ScriptMessageHandler getImei]"
+                  moduleName = "OcH5Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/b77/Desktop/OcH5Demo/OcH5Demo/ScriptMessageHandler.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "63">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1868EB52-C4C6-422E-AEF0-2D642367DB20"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OcH5Demo/ScriptMessageHandler.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "-getAfid"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1868EB52-C4C6-422E-AEF0-2D642367DB20 - 38a5f5d6fd9decaf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ScriptMessageHandler userContentController:didReceiveScriptMessage:]"
+                  moduleName = "OcH5Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/b77/Desktop/OcH5Demo/OcH5Demo/ScriptMessageHandler.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "368">
+               </Location>
+               <Location
+                  uuid = "1868EB52-C4C6-422E-AEF0-2D642367DB20 - ce3635dd8ac0e81c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ScriptMessageHandler getAfid]"
+                  moduleName = "OcH5Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/b77/Desktop/OcH5Demo/OcH5Demo/ScriptMessageHandler.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "51">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1D4EAD52-1729-4BC2-9321-859FF39C7CA6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OcH5Demo/ScriptMessageHandler.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "+setAfuuid:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1D4EAD52-1729-4BC2-9321-859FF39C7CA6 - da974ceda387190b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ScriptMessageHandler getImei]"
+                  moduleName = "OcH5Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/b77/Desktop/OcH5Demo/OcH5Demo/ScriptMessageHandler.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "1D4EAD52-1729-4BC2-9321-859FF39C7CA6 - 804ef80077e197ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[ScriptMessageHandler setAfuuid:]"
+                  moduleName = "OcH5Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/b77/Desktop/OcH5Demo/OcH5Demo/ScriptMessageHandler.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "62">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C2BFB78F-75AB-46B8-88D4-2EA310FB10A0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OcH5Demo/ScriptMessageHandler.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "-getPhoneDeviceID"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C2BFB78F-75AB-46B8-88D4-2EA310FB10A0 - ce3635dd8ac0d6ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ScriptMessageHandler getAfid]"
+                  moduleName = "OcH5Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/b77/Desktop/OcH5Demo/OcH5Demo/ScriptMessageHandler.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "34">
+               </Location>
+               <Location
+                  uuid = "C2BFB78F-75AB-46B8-88D4-2EA310FB10A0 - 254f641eb653cc00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ScriptMessageHandler getPhoneDeviceID]"
+                  moduleName = "OcH5Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/b77/Desktop/OcH5Demo/OcH5Demo/ScriptMessageHandler.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "63">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F7F46714-95CF-4226-AFC4-CBE8F649FAF4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OcH5Demo/ScriptMessageHandler.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "-mgneg1uuid"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F7F46714-95CF-4226-AFC4-CBE8F649FAF4 - 254f641eb653ceef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ScriptMessageHandler getPhoneDeviceID]"
+                  moduleName = "OcH5Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/b77/Desktop/OcH5Demo/OcH5Demo/ScriptMessageHandler.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "F7F46714-95CF-4226-AFC4-CBE8F649FAF4 - 14c59bf02b9c2ef8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ScriptMessageHandler mgneg1uuid]"
+                  moduleName = "OcH5Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/b77/Desktop/OcH5Demo/OcH5Demo/ScriptMessageHandler.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0CF850FE-7B34-4602-BE2E-C69F22263995"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OcH5Demo/ScriptMessageHandler.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "-brtnrxcuuid2:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0CF850FE-7B34-4602-BE2E-C69F22263995 - 14c59bf02b9c2abb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ScriptMessageHandler mgneg1uuid]"
+                  moduleName = "OcH5Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/b77/Desktop/OcH5Demo/OcH5Demo/ScriptMessageHandler.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "427">
+               </Location>
+               <Location
+                  uuid = "0CF850FE-7B34-4602-BE2E-C69F22263995 - 5000f252763fe59a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ScriptMessageHandler brtnrxcuuid2:]"
+                  moduleName = "OcH5Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/b77/Desktop/OcH5Demo/OcH5Demo/ScriptMessageHandler.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "39007756-8039-4126-8651-AF2BC3E4D33B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OcH5Demo/ScriptMessageHandler.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "-mnxetywvhfuuid3:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "39007756-8039-4126-8651-AF2BC3E4D33B - 5000f252763feb8a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ScriptMessageHandler brtnrxcuuid2:]"
+                  moduleName = "OcH5Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/b77/Desktop/OcH5Demo/OcH5Demo/ScriptMessageHandler.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "79">
+               </Location>
+               <Location
+                  uuid = "39007756-8039-4126-8651-AF2BC3E4D33B - 59021e9201358e48"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ScriptMessageHandler mnxetywvhfuuid3:]"
+                  moduleName = "OcH5Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/b77/Desktop/OcH5Demo/OcH5Demo/ScriptMessageHandler.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "65">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

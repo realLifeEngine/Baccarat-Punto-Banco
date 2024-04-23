@@ -1,0 +1,6 @@
+framework module Pods_OcH5DemoTests {
+  umbrella header "Pods-OcH5DemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
